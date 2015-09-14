@@ -23,6 +23,7 @@
     "lodash": "^2.4.1",
     "nep-certificate": "0.0.6",
     "nep-env": "0.0.2",
-    "nep-request": "~0"
+    "nep-request": "~0",
+    "stream-throttle": "^0.1.3"
   }
 }
